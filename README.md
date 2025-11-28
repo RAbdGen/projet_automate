@@ -67,20 +67,9 @@ del automate.exe
 
 ## 👤 Auteur
 
-- **Ton Nom** - _Initial work_
+- **Renaud** - _L3 Informatique: TP Grammaire et Automate_
+- **Baptiste** - _L3 Informatique: TP Grammaire et Automate_
 
 ```
 
-***
-
-### Pourquoi j'ai inclus ces options :
-
-1.  **Les Flags (`-Wall -Wextra`) :** C'est crucial pour le C. Même pour un projet "simple", cela t'aidera à voir si tu oublies d'initialiser une variable ou si tes types ne correspondent pas.
-2.  **La distinction Dossiers vs Racine :** Souvent, les projets d'automates grandissent vite (un fichier pour la lecture, un pour la structure, un pour le main). J'ai mis la commande pour les deux cas de figure.
-
-### Une prochaine étape utile ?
-
-Si tu commences à avoir plusieurs fichiers, taper la commande `gcc` à chaque fois devient fastidieux.
-
-**Veux-tu que je te génère un `Makefile` très simple pour automatiser la compilation ?**
 ```
