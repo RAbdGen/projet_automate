@@ -1,6 +1,6 @@
 # Projet Automates
 
-Ce projet est une implémentation en C permettant la manipulation et la simulation d'automates finis (DFA/NFA).
+Ce projet est une implémentation en C permettant la manipulation et la simulation d'automates finis (AFN/AFD).
 
 ## 📁 Structure du projet
 
@@ -69,7 +69,3 @@ del automate.exe
 
 - **Renaud** - _L3 Informatique: TP Grammaire et Automate_
 - **Baptiste** - _L3 Informatique: TP Grammaire et Automate_
-
-```
-
-```
